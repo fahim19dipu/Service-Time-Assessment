@@ -1,0 +1,4 @@
+# Ignore Python bytecode 
+__pycache__/ 
+# Ignore virtual environment 
+stime_env/
